@@ -100,7 +100,7 @@ def render_clase_card(clase, card_class="card"):
 # ── Sidebar ──────────────────────────────────────────────────────────────────
 with st.sidebar:
     st.image(
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/UAS_logotipo.svg/240px-UAS_logotipo.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/UAS_logo.png/640px-UAS_logo.png",
         width=120,
     )
     st.markdown("### Cirugía General UAS")
